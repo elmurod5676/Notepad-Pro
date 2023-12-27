@@ -1,0 +1,10 @@
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\bin\Debug\Note Pro.exe.config
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\bin\Debug\Note Pro.exe
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\bin\Debug\Note Pro.pdb
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note Pro.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note_Pro.Form1.resources
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note_Pro.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note Pro.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note Pro.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note Pro.exe
+C:\Users\elmuroddev\source\repos\Note Pro\Note Pro\obj\Debug\Note Pro.pdb
